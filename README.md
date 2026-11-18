@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Pavithra! 👋
 
-<!--
-**Pavithratharmalingam/Pavithratharmalingam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | B.E. ECE Graduate (2026)
 
-Here are some ideas to get you started:
+I'm an aspiring Frontend Developer interested in building responsive and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- React.js
+- Basic Java
+- Python
+- MYSQL
+
+### 💻 Projects
+1. **PriceWise** – React.js based price comparison application.
+2. **Employee Management System** – Employee management web application.
+3. **Coworking System** – Responsive coworking website using HTML, CSS and JavaScript.
+
+### 📫 Connect With Me
+- GitHub: https://github.com/Pavithratharmalingam
+- Email: tpavithra0710@gmail.com
